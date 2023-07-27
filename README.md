@@ -3,7 +3,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Salama eh ✌️<br>
+        <samp>&gt; Salama eh ✌️❤️<br>
                 <h1><b><a target="_blank" href="#">RAHARIMANANA Tianantenaina Fabiola</a></b></h1>
         </samp>
 </h3>
@@ -39,10 +39,10 @@
 
  
 <p>
-  
- ❤️ &emsp; Coding <br/><br/>
- ❤️ &emsp; Writing<br/><br/>
- ❤️ &emsp; Drawing<br/><br/>
+<p align="center"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
+ <!-- &emsp; Coding <br/><br/>
+ ❤ &emsp; Writing<br/><br/>
+ ❤ &emsp; Drawing<br/><br/>!-->
 
 </p>
 
