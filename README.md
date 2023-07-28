@@ -3,7 +3,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Salama eh ✌️❤️<br>
+        
                 <h1><b><a target="_blank" href="#">RAHARIMANANA Tianantenaina Fabiola</a></b></h1>
         </samp>
 </h3>
