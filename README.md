@@ -35,7 +35,6 @@
  # About me
  <h1 align="center"><b><a target="_blank" href="#">RAHARIMANANA Tianantenaina Fabiola</a></b></h1>
  
-![image](https://scontent.ftnr5-1.fna.fbcdn.net/v/t39.30808-6/363750971_300116622585620_4829121205832834796_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=109&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG7kAI-8sbFkIqNdBheR4ezoVxd4PG7VaihXF3g8btVqBReWTlPzNCMAe424HeCzJyYOiW_akI89jMkdFoCBYpA&_nc_ohc=uvGdQEUSNs4AX_Vhe5I&_nc_ht=scontent.ftnr5-1.fna&oh=00_AfBqk4HFCKFk58Mx0gPqDDIM-0fxMcTh-9_wrc43wEVZbw&oe=64C7CF97)
 
  
 <p>
