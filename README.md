@@ -56,11 +56,12 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Wordpress](https://img.shields.io/badge/WordPress-%23FF2D20.svg?style=flat&amp;logo=WordPress&amp;logoColor=black)
-![flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&amp;logo=flask&amp;logoColor=white)
-![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&amp;logo=laravel&amp;logoColor=white)
-![css](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&amp;logo=css3&amp;logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&amp;logo=mysql&amp;logoColor=white)
+![Wordpress](https://img.shields.io/badge/WordPress-%23FF2D20.svg?style=for-the-badge&amp;logo=WordPress&amp;logoColor=purple)
+![Prestashop](https://img.shields.io/badge/Prestashop-FFFFFF?style=for-the-badge&amp;logo=Prestashop&amp;logoColor=black)
+![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
+![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
+![css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
 ![sqlite](https://camo.githubusercontent.com/9b9466b670c753b9ffe08f3cf31cfb5a0b218e236a9507116cf404b8d866c98d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666c6174266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)
 
 <br/>
