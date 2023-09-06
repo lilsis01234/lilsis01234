@@ -15,17 +15,7 @@
 
  <h2 align="center"><b><a target="_blank" href="#">   「 mern stack developer from <b>Nowhere</b> 」</a></b></h2>
  
-<p align="center">
- <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fabiola"/>
- </a>
- <a href="https://instagram.com/fabiola.tiana" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="fabiola" />
- </a> 
- <a href="https://www.facebook.com/profile.php?id=100077618534784" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="fabiola"  />
-  </a> 
-</p>
+
  
 <p>
 <p align="center"><img src="giphy.gif"/></p>
@@ -38,6 +28,18 @@
 <br/>
 <br/>
 <br/>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fabiola"/>
+ </a>
+ <a href="https://instagram.com/fabiola.tiana" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="fabiola" />
+ </a> 
+ <a href="https://www.facebook.com/profile.php?id=100077618534784" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="fabiola"  />
+  </a> 
+</p>
 
 ## Tools for coding
 
@@ -52,16 +54,8 @@
 ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
 ![css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![sqlite](https://camo.githubusercontent.com/9b9466b670c753b9ffe08f3cf31cfb5a0b218e236a9507116cf404b8d866c98d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666c6174266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)
-
-<br/>
 
 
-<p align="left">
-  <a href="https://github.com/lilsis01234?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
 <hr/>
 <br/>
 
