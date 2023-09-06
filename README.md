@@ -9,20 +9,11 @@
         <img src='https://lh3.googleusercontent.com/a/AAcHTtfgcFQlLCtEQxXgekgS0LmZ_f5DM-q686-f6oZABdjS2w=s360-c-no' alt='fabiola'/> 
 </div> -->
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a mern stack web appplication developer from <b>Madagascar</b> 」
-    <br>
-  </samp>
-</p>
 
-
-<br />
 
 <!-- About Section -->
 
- <h1 align="center"><b><a target="_blank" href="#">RAHARIMANANA Tianantenaina Fabiola</a></b></h1>
+ <h2 align="center"><b><a target="_blank" href="#">   「 I am a mern stack web appplication developer from <b>Madagascar</b> 」</a></b></h2>
  
 <p align="center">
  <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
