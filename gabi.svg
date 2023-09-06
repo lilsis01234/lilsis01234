@@ -9,7 +9,7 @@
                 <path id='path0'>
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d0.end'
-                    dur='3000ms' fill='remove'
+                    dur='4000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
                     </path>
     <text font-family='"jetbrains mono", monospace' fill='#fac' font-size='40'
