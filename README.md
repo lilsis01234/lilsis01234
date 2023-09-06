@@ -28,7 +28,7 @@
 </p>
  
 <p>
-<p align="center"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
+<p align="center"><img src="giphy.gif"/></p>
  <!-- &emsp; Coding <br/><br/>
  ❤ &emsp; Writing<br/><br/>
  ❤ &emsp; Drawing<br/><br/>!-->
