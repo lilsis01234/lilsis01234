@@ -13,7 +13,7 @@
 
 <!-- About Section -->
 
- <h2 align="center"><b><a target="_blank" href="#">   「 I am a mern stack web appplication developer from <b>Madagascar</b> 」</a></b></h2>
+ <h2 align="center"><b><a target="_blank" href="#">   「 mern stack developer from <b>Nowhere</b> 」</a></b></h2>
  
 <p align="center">
  <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
