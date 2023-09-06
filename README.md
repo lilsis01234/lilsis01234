@@ -5,19 +5,25 @@
 
  <h3 align='center'> <img src='gabi.svg'/>
 </h3>
-<div align="center">
+<!-- <div align="center">
         <img src='https://lh3.googleusercontent.com/a/AAcHTtfgcFQlLCtEQxXgekgS0LmZ_f5DM-q686-f6oZABdjS2w=s360-c-no' alt='fabiola'/> 
-</div>
+</div> -->
 
 <p align="center"> 
   <samp>
     <br>
     「 I am a mern stack web appplication developer from <b>Madagascar</b> 」
     <br>
-    <br>
   </samp>
 </p>
 
+
+<br />
+
+<!-- About Section -->
+
+ <h1 align="center"><b><a target="_blank" href="#">RAHARIMANANA Tianantenaina Fabiola</a></b></h1>
+ 
 <p align="center">
  <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fabiola"/>
@@ -29,13 +35,6 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="fabiola"  />
   </a> 
 </p>
-<br />
-
-<!-- About Section -->
- # About me
- <h1 align="center"><b><a target="_blank" href="#">RAHARIMANANA Tianantenaina Fabiola</a></b></h1>
- 
-
  
 <p>
 <p align="center"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
