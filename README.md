@@ -31,13 +31,13 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
-  <img src="https://i.pinimg.com/736x/2b/e7/ce/2be7cee4fe404b8fa86d31d139fab757.jpg" alt="fabiola" width="80" height="80"/>
+  <img src="https://www.logic-id.fr/ressources/img/icons/linkedin/linkedin-256.png" alt="fabiola" width="70" height="70"/>
  </a>
  <a href="https://instagram.com/fabiola.tiana" target="_blank">
   <img src="https://as2.ftcdn.net/v2/jpg/04/47/16/81/1000_F_447168164_Wagm0faZooBeWQ9mMdrw0JUob9urmibA.jpg" width="80" height="80" alt="fabiola" />
  </a> 
  <a href="https://www.facebook.com/profile.php?id=100077618534784" target="_blank">
-  <img src="https://icon-library.com/images/black-facebook-icon-png/black-facebook-icon-png-0.jpg" width="80" height="80" alt="fabiola"  />
+  <img src="https://icon-library.com/images/black-facebook-icon-png/black-facebook-icon-png-0.jpg" width="70" height="70" alt="fabiola"  />
   </a> 
 </p>
 
