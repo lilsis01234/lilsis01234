@@ -13,7 +13,7 @@
 
 <!-- About Section -->
 
- <h2 align="center"><b><a target="_blank" href="#">   「 mern stack developer from <b>Nowhere</b> 」</a></b></h2>
+ <h2 align="center"><b><a target="_blank" href="#">   「 If, at first, you do not succeed, call it version <b>1.0</b> 」</a></b></h2>
  
 
  
