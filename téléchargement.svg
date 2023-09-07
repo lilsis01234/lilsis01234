@@ -21,7 +21,7 @@
                     dur='6000ms' fill='remove'
                     values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#f75c7e' font-size='40'
+    <text font-family='"Fira Code", monospace' fill='#fac' font-size='40'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
@@ -34,11 +34,11 @@
                     dur='6000ms' fill='remove'
                     values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#fac' font-size='24'
+    <text font-family='"Fira Code", monospace' fill='#f75c7e' font-size='22'
         dominant-baseline='middle'
-        x='40%' text-anchor='middle'>
+        x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
-            Mern stack developer
+            Mern stack developer from nowhere
         </textPath>
     </text>
         <path id='path2'>
@@ -47,9 +47,9 @@
                     dur='6000ms' fill='remove'
                     values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#f75c7e' font-size='24'
+    <text font-family='"Fira Code", monospace' fill='#fac' font-size='40'
         dominant-baseline='middle'
-        x='30%' text-anchor='middle'>
+        x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
            No talk, build
         </textPath>
@@ -60,9 +60,9 @@
                     dur='6000ms' fill='remove'
                     values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#fac' font-size='26'
+    <text font-family='"Fira Code", monospace' fill='#f75c7e' font-size='26'
         dominant-baseline='middle'
-        x='40%' text-anchor='middle'>
+        x='50%' text-anchor='middle'>
         <textPath xlink:href='#path3'>
            Still learning, always
         </textPath>
