@@ -31,13 +31,13 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
-  <img src="https://www.logic-id.fr/ressources/img/icons/linkedin/linkedin-256.png" alt="fabiola" width="70" height="70"/>
+  <img src="https://www.logic-id.fr/ressources/img/icons/linkedin/linkedin-256.png" alt="fabiola's linkedin" width="70" height="70"/>
  </a>
  <a href="https://instagram.com/fabiola.tiana" target="_blank">
-  <img src="https://as2.ftcdn.net/v2/jpg/04/47/16/81/1000_F_447168164_Wagm0faZooBeWQ9mMdrw0JUob9urmibA.jpg" width="80" height="80" alt="fabiola" />
+  <img src="https://as2.ftcdn.net/v2/jpg/04/47/16/81/1000_F_447168164_Wagm0faZooBeWQ9mMdrw0JUob9urmibA.jpg" width="80" height="80" alt="fabiola's instagram" />
  </a> 
  <a href="https://www.facebook.com/profile.php?id=100077618534784" target="_blank">
-  <img src="https://icon-library.com/images/black-facebook-icon-png/black-facebook-icon-png-0.jpg" width="70" height="70" alt="fabiola"  />
+  <img src="https://icon-library.com/images/black-facebook-icon-png/black-facebook-icon-png-0.jpg" width="70" height="70" alt="fabiola's facebook"  />
   </a> 
 </p>
 
@@ -67,13 +67,13 @@
 
 <p align="center">
   <a href="https://github.com/lilsis01234">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lilsis01234&theme=radical" alt="Fab's's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lilsis01234&theme=radical" alt="Fabi's's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
     <a href="https://github.com/lilsis01234"><img alt="Fab's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lilsis01234&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/lilsis01234"><img alt="Fab's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lilsis01234&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/lilsis01234"><img alt="Fabi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lilsis01234&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
