@@ -60,13 +60,13 @@
 <br/>
 
 
-<a> 
-   <!--a href="https://github.com/lilsis01234">
+<!--a> 
+   <a href="https://github.com/lilsis01234">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilsis01234&theme=radical&border=7F3FBF&background=0D1117" alt="Fab's GitHub streak"/>
-</a!-->
+</a>
   <a href="https://github.com/lilsis01234"><img alt="Fabi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lilsis01234&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</a!-->
 
 
 <!-- ![Gabi'sGraph](https://github-readme-activity-graph.cyclic.app/graph?username=lilsis01234&custom_title=Gabi%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) !-->
