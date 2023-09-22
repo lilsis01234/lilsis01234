@@ -42,7 +42,7 @@
 </p>
 
    <a href="https://github.com/lilsis01234">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lilsis01234&amp;theme=radical&amp;theme=leafy&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=06ACBD&amp;currStreakLabel=06ACBD&amp;background=ffffff00&amp;hide_border=true&amp;stroke=ffffff00" alt="fab GitHub Stats"  width= "700">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lilsis01234&amp;theme=radical&amp;theme=radical&amp;ring=#f75c7e&amp;sideNums=#fac&amp;dates=06ACBD&amp;currStreakNum=06ACBD&amp;currStreakLabel=06ACBD&amp;background=ffffff00&amp;hide_border=false&amp;stroke=ffffff00" alt="fab GitHub Stats"  width= "700">
 </a>
 
 ## My coding wizardry arsenal$
