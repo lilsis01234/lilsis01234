@@ -13,7 +13,7 @@
 
 <!-- About Section -->
 
- <h2 align="center"><b><a target="_blank" href="#">   「 If, at first, you do not succeed, call it version <b>1.0</b> ✨」</a></b></h2>
+ <h3 align="center"><b><a target="_blank" href="#">   「 If, at first, you do not succeed, call it version <b>1.0</b> ✨」</a></b></h3>
  
 
  
@@ -41,6 +41,10 @@
   </a> 
 </p>
 
+   <a href="https://github.com/lilsis01234">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lilsis01234&amp;theme=radical&amp;theme=leafy&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=06ACBD&amp;currStreakLabel=06ACBD&amp;background=ffffff00&amp;hide_border=true&amp;stroke=ffffff00" alt="fab GitHub Stats"  width= "700">
+</a>
+
 ## My coding wizardry arsenal$
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -61,9 +65,7 @@
 
 
 <a> 
-   <a href="https://github.com/lilsis01234">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lilsis01234&amp;theme=radical&amp;theme=leafy&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=06ACBD&amp;currStreakLabel=06ACBD&amp;background=ffffff00&amp;hide_border=true&amp;stroke=ffffff00" alt="fab GitHub Stats"  max-width= "100%">
-</a>
+
   <a href="https://github.com/lilsis01234"><img alt="Fabi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lilsis01234&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" amx-width="100%"/></a>
   <br/>
 </a>
