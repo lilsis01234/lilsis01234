@@ -61,9 +61,9 @@
 
 
 <a> 
-<!--    <a href="https://github.com/lilsis01234">
+   <a href="https://github.com/lilsis01234">
   <img src="https://camo.githubusercontent.com/77d7bbb37b5ba7f9513bad8f0ac4766f8bea9ad0b28bf8b0279decfd08e39211/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d546f68794e7941696e61267468656d653d736f6c6172697a65642d6461726b267468656d653d6c656166792672696e673d30343738383426736964654e756d733d3036414342442664617465733d303641434244266375727253747265616b4e756d3d303641434244266375727253747265616b4c6162656c3d303641434244266261636b67726f756e643d666666666666303026686964655f626f726465723d74727565267374726f6b653d6666666666663030" alt="GitHub Stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=lilsis01234&amp;theme=solarized-dark&amp;theme=leafy&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=06ACBD&amp;currStreakLabel=06ACBD&amp;background=ffffff00&amp;hide_border=true&amp;stroke=ffffff00" style="max-width: 100%;">
-</a> -->
+</a>
   <a href="https://github.com/lilsis01234"><img alt="Fabi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lilsis01234&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
