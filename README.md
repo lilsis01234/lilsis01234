@@ -25,10 +25,6 @@
 
 </p>
 
-<br/>
-<br/>
-<br/>
-
 <!-- <p align="center">
  <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
   <img src="https://www.logic-id.fr/ressources/img/icons/linkedin/linkedin-256.png" alt="fabiola's linkedin" width="70" height="70"/>
