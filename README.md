@@ -71,7 +71,7 @@
 </a>
 
 
-<!-- ![Gabi'sGraph](https://github-readme-activity-graph.cyclic.app/graph?username=lilsis01234&custom_title=Gabi%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) !-->!-->
+<!-- ![Gabi'sGraph](https://github-readme-activity-graph.cyclic.app/graph?username=lilsis01234&custom_title=Gabi%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) !-->
 
 
 
