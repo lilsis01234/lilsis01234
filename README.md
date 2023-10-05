@@ -5,19 +5,11 @@
 
  <h3 align='center'> <img src='gabi.svg'/>
 </h3>
-<!-- <div align="center">
-        <img src='https://lh3.googleusercontent.com/a/AAcHTtfgcFQlLCtEQxXgekgS0LmZ_f5DM-q686-f6oZABdjS2w=s360-c-no' alt='fabiola'/> 
-</div> -->
-
-
 
 <!-- About Section -->
 
  <h3 align="center"><b><a target="_blank" href="#">   「 If, at first, you do not succeed, call it version <b>1.0</b> ✨」</a></b></h3>
- 
 
- 
-<p>
 <p align="center"><img src="giphy.gif"/></p>
  <!-- &emsp; Coding <br/><br/>
  ❤ &emsp; Writing<br/><br/>
