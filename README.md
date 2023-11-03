@@ -17,7 +17,7 @@
 
 </p>
 
-<!-- <p align="center">
+<p align="center">
  <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
   <img src="https://www.logic-id.fr/ressources/img/icons/linkedin/linkedin-256.png" alt="fabiola's linkedin" width="70" height="70"/>
  </a>
@@ -54,7 +54,7 @@
 
 <a> 
 
-  <a href="https://github.com/lilsis01234"><img alt="Fabi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lilsis01234&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" amx-width="100%"/></a>
+  <!-- a href="https://github.com/lilsis01234"><img alt="Fabi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lilsis01234&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" amx-width="100%"/></a>
   <br/>
 </a>
 
