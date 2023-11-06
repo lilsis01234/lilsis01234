@@ -37,7 +37,7 @@
 ## My coding wizardry arsenal$
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![php](https://img.shields.io/badge/php-FFFFFF?style=for-the-badge&labelColor=purple&logo=php&logoColor=purple)
+![php](https://img.shields.io/badge/php-FFFFFF?style=for-the-badge&labelColor=white&logo=php&logoColor=purple)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
