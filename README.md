@@ -17,7 +17,7 @@
 
 </p>
 
-<p align="center">
+<!--p align="center">
  <a href="https://www.linkedin.com/in/fabiola-raharimanana-8301a8258" target="_blank">
   <img src="https://www.logic-id.fr/ressources/img/icons/linkedin/linkedin-256.png" alt="fabiola's linkedin" width="70" height="70"/>
  </a>
@@ -27,7 +27,7 @@
  <a href="https://www.facebook.com/profile.php?id=100077618534784" target="_blank">
   <img src="https://icon-library.com/images/black-facebook-icon-png/black-facebook-icon-png-0.jpg" width="70" height="70" alt="fabiola's facebook"  />
   </a> 
-</p>
+</p-->
 <p align="center">
    <a href="https://github.com/lilsis01234">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilsis01234&amp;theme=radical&amp;theme=radical&amp;ring=#f75c7e&amp;sideNums=#fac&amp;dates=06ACBD&amp;currStreakNum=06ACBD&amp;currStreakLabel=06ACBD&amp;background=ffffff00&amp;hide_border=false&amp;stroke=ffffff00" alt="fab GitHub Stats"  width= "700">
