@@ -8,7 +8,7 @@
 
 <!-- About Section -->
 
- <h3 align="center"><b><a target="_blank" href="#">   「 If, at first, you do not succeed, call it version <b>1.0</b> ✨」</a></b></h3>
+ <h3 align="center"><b><a target="_blank" href="#">   「 If at first you do not succeed, call it version <b>1.0</b> ✨」</a></b></h3>
 
 <p align="center"><img src="giphy.gif"/></p>
  <!-- &emsp; Coding <br/><br/>
