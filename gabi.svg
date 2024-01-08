@@ -25,7 +25,7 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
-           I am Blèsee🦄
+            Blèsee🦄
         </textPath>
     </text>
         <path id='path1'>
@@ -38,7 +38,7 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
-            Mern stack developer from Nowhere
+           From Nowhere
         </textPath>
     </text>
         <path id='path2'>
@@ -51,7 +51,7 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
-           No talk, Build
+           Still learning
         </textPath>
     </text>
         <path id='path3'>
@@ -64,7 +64,7 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path3'>
-           Still learning, Always
+           And making efforts
         </textPath>
     </text>
 </svg>
