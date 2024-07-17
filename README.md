@@ -28,11 +28,12 @@
   <img src="https://icon-library.com/images/black-facebook-icon-png/black-facebook-icon-png-0.jpg" width="70" height="70" alt="fabiola's facebook"  />
   </a> 
 </p-->
-<p align="center">
+
+<!--<p align="center">
    <a href="https://github.com/lilsis01234">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilsis01234&amp;theme=radical&amp;theme=radical&amp;ring=#f75c7e&amp;sideNums=#fac&amp;dates=06ACBD&amp;currStreakNum=06ACBD&amp;currStreakLabel=06ACBD&amp;background=ffffff00&amp;hide_border=false&amp;stroke=ffffff00" alt="fab GitHub Stats"  width= "700">
 </a>
-</p>
+</p>-->
 
 ## My coding wizardry arsenal$
 
