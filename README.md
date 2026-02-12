@@ -36,7 +36,7 @@
 </p>-->
 
 ## My coding wizardry arsenal$
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![php](https://img.shields.io/badge/php-FFFFFF?style=for-the-badge&labelColor=white&logo=php&logoColor=purple)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
